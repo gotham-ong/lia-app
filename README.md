@@ -1,2 +1,3 @@
 # lia-app
-LIA é um sistema que tem como objetivo ajudar empresas a filtrarem e desenvolverem melhores seus processos seletivos.
+LIA é um sistema que tem como objetivo ajudar empresas a filtrarem e desenvolverem melhores seus processos seletivos. Atualmente vagas de junior tem números astronômicos de submissão por dia oque torna o processo de encontrar o candidato ideal no meio desse numero gigantesco quase uma busca impossível. Além disso, o feedback e tratamento com todos os envolvidos no processo geralmente é no mínimo frio, quando se quer existe uma resposta. A ideia do projeto é o desenvolvimento de uma ferramenta que receba como entrada uma lista de contas do LinkedIn. Esse sistema irá processar a lista de usuários e utilizar a API do linkedin para extrair informações e criar grupos de possíveis bons candidatos. Além disso, com essa categorização de experiência e informações baseada nos perfis o feedback e contato ficará mais fácil e intuitivo.
+
